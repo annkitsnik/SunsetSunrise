@@ -1,0 +1,13 @@
+C:\Users\Kasutaja\Desktop\SunsetSunrise\SunsetSunrise\bin\Debug\netcoreapp3.1\SunsetSunrise.exe
+C:\Users\Kasutaja\Desktop\SunsetSunrise\SunsetSunrise\obj\Debug\netcoreapp3.1\SunsetSunrise.csprojAssemblyReference.cache
+C:\Users\Kasutaja\Desktop\SunsetSunrise\SunsetSunrise\obj\Debug\netcoreapp3.1\SunsetSunrise.AssemblyInfoInputs.cache
+C:\Users\Kasutaja\Desktop\SunsetSunrise\SunsetSunrise\obj\Debug\netcoreapp3.1\SunsetSunrise.AssemblyInfo.cs
+C:\Users\Kasutaja\Desktop\SunsetSunrise\SunsetSunrise\bin\Debug\netcoreapp3.1\SunsetSunrise.deps.json
+C:\Users\Kasutaja\Desktop\SunsetSunrise\SunsetSunrise\bin\Debug\netcoreapp3.1\SunsetSunrise.runtimeconfig.json
+C:\Users\Kasutaja\Desktop\SunsetSunrise\SunsetSunrise\bin\Debug\netcoreapp3.1\SunsetSunrise.runtimeconfig.dev.json
+C:\Users\Kasutaja\Desktop\SunsetSunrise\SunsetSunrise\bin\Debug\netcoreapp3.1\SunsetSunrise.dll
+C:\Users\Kasutaja\Desktop\SunsetSunrise\SunsetSunrise\bin\Debug\netcoreapp3.1\SunsetSunrise.pdb
+C:\Users\Kasutaja\Desktop\SunsetSunrise\SunsetSunrise\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Kasutaja\Desktop\SunsetSunrise\SunsetSunrise\obj\Debug\netcoreapp3.1\SunsetSunrise.csproj.CopyComplete
+C:\Users\Kasutaja\Desktop\SunsetSunrise\SunsetSunrise\obj\Debug\netcoreapp3.1\SunsetSunrise.dll
+C:\Users\Kasutaja\Desktop\SunsetSunrise\SunsetSunrise\obj\Debug\netcoreapp3.1\SunsetSunrise.pdb
